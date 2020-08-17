@@ -1,0 +1,13 @@
+server:
+  port: 9001
+  
+cloud:
+  aws:
+    region:
+      static: us-east-2
+      auto: false
+    credentials:
+      access-key: xxxxxxxxxxxxxxx
+      secret-key: xxxxxxxxxxxxxxxx
+    end-point:
+      uri: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
